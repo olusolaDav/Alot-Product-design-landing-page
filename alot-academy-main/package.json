@@ -1,0 +1,44 @@
+{
+  "name": "alot-project-team",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^2.6.3",
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/inter": "^5.0.13",
+    "@hookform/resolvers": "^3.1.1",
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.4",
+    "framer-motion": "^10.12.16",
+    "lodash.isempty": "^4.4.0",
+    "mongoose": "^8.0.0",
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.0",
+    "react-icons": "^4.9.0",
+    "react-phone-input-2": "^2.15.1",
+    "sonner": "^1.1.0",
+    "typescript": "5.0.4",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash.isempty": "^4.4.7",
+    "@types/qrcode": "^1.5.2"
+  }
+}
